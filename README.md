@@ -6,5 +6,5 @@ Instructions:
 
 ___
 Web-Interface:
-1. Click browse to upload the image.
-2. Click upload to get predictions.
+1. Click **browse** to upload the image.
+2. Click **upload** to get predictions.
