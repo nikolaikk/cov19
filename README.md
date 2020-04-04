@@ -1,4 +1,4 @@
-This is a ML project for classification of CT images of lungs. The repository is a web-based application which can be run python and preinstalled libraries such as flask and pytorch.
+This is a ML project for classification of CT images of lungs. The repository is a web-based application which can be run using python and preinstalled libraries such as flask and pytorch.
 
 Instructions:
 1. Install all required python dependencies using <code> pip install -r requirements.txt </code>
