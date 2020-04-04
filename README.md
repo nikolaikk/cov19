@@ -4,6 +4,7 @@ Instructions:
 1. Install all required python dependencies using <code> pip install -r requirements.txt </code>
 2. Run the using flask <code> env FLASK_APP=web.py flask run </code>C
 
+___
 Web-Interface:
 1. Click browse to upload the image.
 2. Click upload to get predictions.
