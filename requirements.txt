@@ -2,7 +2,7 @@
 # https://github.com/damnever/pigar
 
 # web.py: 2,4
-Flask == 1.1.1
+Flask == 2.3.2
 
 # ml/utils.py: 2
 Pillow == 7.0.0
